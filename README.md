@@ -1,6 +1,7 @@
 # sub_function_set
 
-[ 这个项目用来研发和测试各种功能 ]Create React App]
+[ 这个项目用来研发和测试各种功能 ][Create React App]
+This project was bootstrapped with [Create React App]
 
 #  IconLayer 图层的聚合
 
